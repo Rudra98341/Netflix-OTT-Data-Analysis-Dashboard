@@ -66,7 +66,7 @@ It analyzes Netflix content data to extract meaningful insights about movies, TV
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/Netflix-OTT-Data-Analysis-Dashboard.git
+git clone https://github.com/Rudra98341/Netflix-OTT-Data-Analysis-Dashboard.git
 
 ### Step 2: Install dependencies
 pip install -r requirements.txt
