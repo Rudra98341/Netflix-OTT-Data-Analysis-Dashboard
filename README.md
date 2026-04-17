@@ -54,6 +54,12 @@ It analyzes Netflix content data to extract meaningful insights about movies, TV
 ## 🖥️ Dashboard Preview
 
 <img width="422" height="387" alt="image" src="https://github.com/user-attachments/assets/9e4330a8-fb27-443b-aa00-f13a19404386" />
+<img width="473" height="343" alt="image" src="https://github.com/user-attachments/assets/26d218d5-7c04-40be-acf6-9661823058f1" />
+<img width="437" height="335" alt="image" src="https://github.com/user-attachments/assets/d5add565-6e21-48e2-962d-0ae736807d68" />
+<img width="856" height="309" alt="image" src="https://github.com/user-attachments/assets/5fc6619a-739e-4112-b75f-2935861c8030" />
+
+
+
 
 
 ## ▶️ How to Run the Project
