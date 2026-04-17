@@ -96,18 +96,7 @@ Netflix-OTT-Data-Analysis-Dashboard/
 * 📊 Advanced analytics & recommendations
 * 🌐 Deploy dashboard online
 
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and improve it.
 
 ---
 
-## 📧 Contact
 
-If you have any questions, feel free to connect.
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
